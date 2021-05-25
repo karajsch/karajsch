@@ -1,6 +1,6 @@
 ### Hey there! 👋
 
-I'm a webdev with a background in art based in Philadelphia. I'm passionate about creating clean, visually pleasing websites that are easy and fun to use. Want to know more? Check out [my portfolio](https://karajsch.github.io/) or you can add me on [LinkedIn](https://www.linkedin.com/in/karajsch/)!
+I'm a webdev with a background in art based in Philadelphia. I'm passionate about creating clean, visually pleasing websites that are easy and fun to use. Want to know more? Check out my portfolio - [karajsch.github.io](https://karajsch.github.io/) - and feel free to add me on [LinkedIn](https://www.linkedin.com/in/karajsch/)!
 
 | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=karajsch)](https://github.com/karajsch/github-readme-stats) | ![Kara's GitHub stats](https://github-readme-stats.vercel.app/api?username=karajsch&show_icons=true) |
 | :--------------------------------------------------------------------------------------------------------------------------------------: | :--------------------------------------------------------------------------------------------------: |
